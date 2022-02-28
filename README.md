@@ -8,7 +8,7 @@
      <p>Report: <b> Broken Link leads to Domain Takeover </b></p>
      <p> ---- by hackkeencyber via hackerone ----</p>
      
-    <img src="https://tech.myntra.com/wp-content/themes/myntra_tech/assets/img/Myntra-logo-horizontal-white.png" width="80" height="80" >    
+    <img src="https://tech.myntra.com/wp-content/themes/myntra_tech/assets/img/Myntra-logo-horizontal-white.png">    
   </body>
 </html>
    
